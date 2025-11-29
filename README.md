@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahemaJaved
 - 👀 I’m interested in web developing..
-- 🌱 I’m currently learning python , web development using  django framework
+- 🌱 Python Django developer
 - 💞️ I’m looking to collaborate on software development jobs
 - 📫 How to reach me shaimasalam007@gmail.com
 
